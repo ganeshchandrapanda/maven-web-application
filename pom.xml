@@ -23,7 +23,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		
 		<sonar.host.url>http://35.223.97.8:9000/</sonar.host.url>
-		<sonar.login>aa09509e04a0e70576ce0bd7906c5a25668918cb</sonar.login>
+		<sonar.login>6ccf1669bcde1e31d0fae3d8739bf8029f50aab6</sonar.login>
 		
 		
 		<!-- <sonar.host.url>http://34.122.82.218:9000/</sonar.host.url>
